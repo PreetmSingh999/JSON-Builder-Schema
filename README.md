@@ -1,2 +1,7 @@
-# JSON-Builder-Schema
-JSON Builder Schema for HRone Project
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
